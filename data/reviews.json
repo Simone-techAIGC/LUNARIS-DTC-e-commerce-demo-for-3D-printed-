@@ -1,0 +1,132 @@
+[
+  {
+    "id": "r1",
+    "productId": "moon-lamp-15cm",
+    "author": "Emily Chen",
+    "avatar": "EC",
+    "rating": 5,
+    "title": "Perfect nightstand lamp",
+    "text": "Bought this for my daughter's room and she absolutely loves it. The 15cm size is just right for her nightstand. The touch control is intuitive and the colors are vibrant. Highly recommend!",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "r2",
+    "productId": "moon-lamp-15cm",
+    "author": "James Miller",
+    "avatar": "JM",
+    "rating": 4,
+    "title": "Great value, compact size",
+    "text": "Surprisingly good quality for the price. The 3D printing texture looks realistic. Would've liked a slightly warmer default white, but the 16 colors make up for it.",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "r3",
+    "productId": "moon-lamp-20cm",
+    "author": "Sarah Thompson",
+    "avatar": "ST",
+    "rating": 5,
+    "title": "Absolutely stunning!",
+    "text": "This is the most beautiful lamp I've ever owned. The crater detail is incredible — it really looks like a real moon. I leave it on warm white most evenings and it creates the coziest atmosphere.",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "r4",
+    "productId": "moon-lamp-20cm",
+    "author": "David Kim",
+    "avatar": "DK",
+    "rating": 5,
+    "title": "Best purchase this year",
+    "text": "Bought this as a gift for my girlfriend and she cried. It's that beautiful. The memory function is a nice touch — it remembers the last color you used. Thinking of buying the Earth one for myself.",
+    "date": "2026-05-22"
+  },
+  {
+    "id": "r5",
+    "productId": "moon-lamp-20cm",
+    "author": "Aisha Patel",
+    "avatar": "AP",
+    "rating": 5,
+    "title": "Worth every penny",
+    "text": "I was hesitant about the price but now I understand. The 20cm is the perfect size — not too big, not too small. The warm glow fills the room beautifully. Best ambient lighting ever.",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "r6",
+    "productId": "moon-lamp-25cm",
+    "author": "Marcus Johnson",
+    "avatar": "MJ",
+    "rating": 5,
+    "title": "A conversation starter",
+    "text": "Every guest who walks into my living room asks where I got this. The 25cm is BIG — in the best way. The remote control is super convenient. The silk finish feels premium to the touch.",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "r7",
+    "productId": "moon-lamp-25cm",
+    "author": "Olivia Wang",
+    "avatar": "OW",
+    "rating": 4,
+    "title": "Impressive piece, very heavy",
+    "text": "It's gorgeous and the remote is a nice addition. Only note: it's heavier than I expected (520g), so make sure your shelf can support it. The surface finish really is scratch-resistant as advertised.",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "r8",
+    "productId": "mars-lamp",
+    "author": "Liam O'Brien",
+    "avatar": "LO",
+    "rating": 5,
+    "title": "The sunset mode is magical",
+    "text": "I bought this for my home office and the Martian Sunset mode is unlike anything I've seen. It slowly transitions from amber to deep red — incredibly calming during late-night work sessions.",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "r9",
+    "productId": "mars-lamp",
+    "author": "Zara Ahmed",
+    "avatar": "ZA",
+    "rating": 4,
+    "title": "Unique and beautiful",
+    "text": "My son is obsessed with space and this Mars lamp is his new favorite thing. The rust color gradient is beautifully done. Would give 5 stars if it came in a slightly larger size too.",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "r10",
+    "productId": "earth-lamp",
+    "author": "Noah Williams",
+    "avatar": "NW",
+    "rating": 5,
+    "title": "Stunning craftsmanship",
+    "text": "The hand-painted continents are remarkably detailed. I can actually make out North America and Europe on mine! The aurora mode cycles through greens and blues and it's breathtaking. Bravo!",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "r11",
+    "productId": "earth-lamp",
+    "author": "Mia Garcia",
+    "avatar": "MG",
+    "rating": 5,
+    "title": "Love the eco mission",
+    "text": "Beautiful lamp + eco-friendly packaging + donations to reforestation? Yes please. The aurora mode is my go-to for movie nights. Already recommended to three friends.",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "r12",
+    "productId": "moon-saturn-set",
+    "author": "Ethan & Olivia",
+    "avatar": "EO",
+    "rating": 5,
+    "title": "Best gift set ever",
+    "text": "Bought this as a wedding gift and the couple was overjoyed. The Saturn ring with LED backlight is genius. The gift box is beautiful enough to give as-is. Worth every cent.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "r13",
+    "productId": "moon-saturn-set",
+    "author": "Sophie Turner",
+    "avatar": "ST",
+    "rating": 5,
+    "title": "Our kids fight over who gets to turn it on",
+    "text": "We keep this in the playroom and the kids argue over who gets to touch it first each evening. Both lamps work perfectly. The Saturn ring is detachable which makes it easy to clean. Amazing quality.",
+    "date": "2026-05-12"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "orderId": "f89e29d3-5a7b-4b9f-a61a-b65819623ae0",
+    "items": [
+      {
+        "id": "mars-lamp",
+        "name": "Mars Lamp · 20cm",
+        "price": 64.99,
+        "quantity": 6
+      }
+    ],
+    "customer": {
+      "email": "daifayo7@gmail.com",
+      "name": "dai fayo",
+      "address": "shounan street",
+      "city": "zhejiang",
+      "postalCode": "315000",
+      "country": "China"
+    },
+    "total": 389.93999999999994,
+    "createdAt": "2026-06-08T15:10:09.395Z"
+  }
+]

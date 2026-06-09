@@ -1,0 +1,221 @@
+[
+  {
+    "id": "moon-lamp-15cm",
+    "name": "Moon Lamp · 15cm",
+    "price": 39.99,
+    "originalPrice": 49.99,
+    "currency": "USD",
+    "description": "Realistic 3D printed moon lamp, 15cm diameter. Touch control with 16 colors and dimmable brightness. Powered by USB, this compact size is perfect for nightstands and small shelves.",
+    "inStock": true,
+    "badge": "SALE",
+    "rating": 4.7,
+    "reviewCount": 128,
+    "features": [
+      "Touch control with 16 vibrant RGB colors",
+      "Stepless dimmable brightness (1%–100%)",
+      "USB powered — cable included",
+      "Eco-friendly PLA+ 3D printing material",
+      "Auto shut-off timer (15/30/60 min)"
+    ],
+    "specs": [
+      { "label": "Diameter", "value": "15 cm (5.9\")" },
+      { "label": "Weight", "value": "180 g" },
+      { "label": "Material", "value": "PLA+ (biodegradable)" },
+      { "label": "Power", "value": "USB DC 5V / 0.5A" },
+      { "label": "Colors", "value": "16 RGB + warm white" },
+      { "label": "Control", "value": "Touch sensor" }
+    ],
+    "theme": {
+      "accent": "#c9a55c",
+      "accentDim": "#8a7540",
+      "bg": "#1a1814",
+      "bgCard": "#1f1c17",
+      "glow": "rgba(201,165,92,0.25)",
+      "vibe": "Cozy Night",
+      "emoji": "🌙",
+      "tagline": "Your cozy nightlight companion"
+    }
+  },
+  {
+    "id": "moon-lamp-20cm",
+    "name": "Moon Lamp · 20cm",
+    "price": 59.99,
+    "currency": "USD",
+    "description": "Our best-selling size. 20cm diameter with ultra-detailed crater texture. Touch control, 16 RGB colors, and stepless dimming. A stunning centerpiece for any room.",
+    "inStock": true,
+    "badge": "BESTSELLER",
+    "rating": 4.9,
+    "reviewCount": 342,
+    "features": [
+      "Ultra-detailed crater texture",
+      "Touch control with 16 RGB colors + warm white",
+      "Stepless dimming (1%–100%)",
+      "USB-C powered with 1.5m braided cable",
+      "Memory function — remembers last color & brightness"
+    ],
+    "specs": [
+      { "label": "Diameter", "value": "20 cm (7.9\")" },
+      { "label": "Weight", "value": "350 g" },
+      { "label": "Material", "value": "PLA+ (biodegradable)" },
+      { "label": "Power", "value": "USB-C DC 5V / 1A" },
+      { "label": "Colors", "value": "16 RGB + warm white" },
+      { "label": "Control", "value": "Touch sensor" }
+    ],
+    "theme": {
+      "accent": "#d4b87a",
+      "accentDim": "#9a8458",
+      "bg": "#151515",
+      "bgCard": "#1a1a1a",
+      "glow": "rgba(212,184,122,0.35)",
+      "vibe": "Classic Elegance",
+      "emoji": "🌕",
+      "tagline": "Our most beloved size, perfected"
+    }
+  },
+  {
+    "id": "moon-lamp-25cm",
+    "name": "Moon Lamp · 25cm",
+    "price": 79.99,
+    "originalPrice": 89.99,
+    "currency": "USD",
+    "description": "The oversized statement piece. 25cm diameter with premium surface finish. Features touch dimmer, remote control, and 16 vibrant colors. Makes an unforgettable gift.",
+    "inStock": true,
+    "badge": "PREMIUM",
+    "rating": 4.8,
+    "reviewCount": 96,
+    "features": [
+      "Generous 25cm diameter — a true statement piece",
+      "Touch control + 6-key remote control included",
+      "16 RGB colors + warm white + color cycle mode",
+      "Stepless dimming + 4 brightness presets",
+      "Premium silk-finish surface with anti-scratch coating"
+    ],
+    "specs": [
+      { "label": "Diameter", "value": "25 cm (9.8\")" },
+      { "label": "Weight", "value": "520 g" },
+      { "label": "Material", "value": "PLA+ (premium finish)" },
+      { "label": "Power", "value": "USB-C DC 5V / 2A" },
+      { "label": "Colors", "value": "16 RGB + warm white" },
+      { "label": "Control", "value": "Touch + remote" }
+    ],
+    "theme": {
+      "accent": "#e8d5a8",
+      "accentDim": "#b09a6a",
+      "bg": "#121216",
+      "bgCard": "#18181d",
+      "glow": "rgba(232,213,168,0.3)",
+      "vibe": "Premium Luxe",
+      "emoji": "🌝",
+      "tagline": "Make a statement that lights up the room"
+    }
+  },
+  {
+    "id": "mars-lamp",
+    "name": "Mars Lamp · 20cm",
+    "price": 64.99,
+    "currency": "USD",
+    "description": "Inspired by the Red Planet. 20cm diameter with a warm rust-colored gradient. Touch control with 16 colors, featuring a special 'sunset' mode that mimics Martian twilight.",
+    "inStock": true,
+    "badge": "NEW",
+    "rating": 4.6,
+    "reviewCount": 74,
+    "features": [
+      "Hand-painted rust-colored gradient surface",
+      "Exclusive 'Martian Sunset' color mode",
+      "Touch control with 16 colors + sunset mode",
+      "Stepless warm dimming (amber → deep red)",
+      "Matte texture with anti-glare finish"
+    ],
+    "specs": [
+      { "label": "Diameter", "value": "20 cm (7.9\")" },
+      { "label": "Weight", "value": "340 g" },
+      { "label": "Material", "value": "PLA+ (matte finish)" },
+      { "label": "Power", "value": "USB-C DC 5V / 1A" },
+      { "label": "Colors", "value": "16 RGB + sunset mode" },
+      { "label": "Control", "value": "Touch sensor" }
+    ],
+    "theme": {
+      "accent": "#d4643a",
+      "accentDim": "#8a3a22",
+      "bg": "#1a0d0a",
+      "bgCard": "#1f120e",
+      "glow": "rgba(212,100,58,0.3)",
+      "vibe": "Martian Sunset",
+      "emoji": "🔴",
+      "tagline": "Bring the warmth of the red planet home"
+    }
+  },
+  {
+    "id": "earth-lamp",
+    "name": "Earth Lamp · 20cm",
+    "price": 69.99,
+    "currency": "USD",
+    "description": "Our blue marble. 20cm diameter with hand-painted continental detail. Touch-controlled with 16 colors plus an 'aurora' mode. A breathtaking tribute to our planet.",
+    "inStock": true,
+    "badge": "NEW",
+    "rating": 4.8,
+    "reviewCount": 156,
+    "features": [
+      "Hand-painted continental detail with blue oceans",
+      "Exclusive 'Aurora Borealis' color mode",
+      "Touch control with 16 colors + aurora mode",
+      "Eco-packaging made from recycled materials",
+      "A portion of proceeds donated to reforestation"
+    ],
+    "specs": [
+      { "label": "Diameter", "value": "20 cm (7.9\")" },
+      { "label": "Weight", "value": "350 g" },
+      { "label": "Material", "value": "PLA+ (hand-painted)" },
+      { "label": "Power", "value": "USB-C DC 5V / 1A" },
+      { "label": "Colors", "value": "16 RGB + aurora mode" },
+      { "label": "Control", "value": "Touch sensor" }
+    ],
+    "theme": {
+      "accent": "#4a90d9",
+      "accentDim": "#2a5a8a",
+      "bg": "#0a0a20",
+      "bgCard": "#0f0f28",
+      "glow": "rgba(74,144,217,0.3)",
+      "vibe": "Aurora Earth",
+      "emoji": "🌍",
+      "tagline": "Our blue marble, reimagined in light"
+    }
+  },
+  {
+    "id": "moon-saturn-set",
+    "name": "Moon & Saturn Set",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "currency": "USD",
+    "description": "A cosmic duo. Includes a 15cm Moon Lamp and a 15cm Saturn Lamp with its iconic ring. Touch control on both, 16 colors each. The ultimate celestial gift set.",
+    "inStock": true,
+    "badge": "BEST VALUE",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "features": [
+      "Includes Moon Lamp 15cm + Saturn Lamp 15cm",
+      "Saturn features a detachable ring with LED backlight",
+      "Both lamps: touch control, 16 colors, stepless dimming",
+      "Premium gift box with magnetic closure",
+      "Perfect for couples, kids, or as a wedding gift"
+    ],
+    "specs": [
+      { "label": "Box Size", "value": "32 × 22 × 18 cm" },
+      { "label": "Total Weight", "value": "680 g" },
+      { "label": "Material", "value": "PLA+ (both lamps)" },
+      { "label": "Power", "value": "2× USB-C cables included" },
+      { "label": "Colors", "value": "16 RGB each" },
+      { "label": "Control", "value": "Touch sensor (each)" }
+    ],
+    "theme": {
+      "accent": "#b088d0",
+      "accentDim": "#7a5a9a",
+      "bg": "#120e18",
+      "bgCard": "#181422",
+      "glow": "rgba(176,136,208,0.3)",
+      "vibe": "Cosmic Duo",
+      "emoji": "🪐",
+      "tagline": "Two celestial wonders, one unforgettable gift"
+    }
+  }
+]
