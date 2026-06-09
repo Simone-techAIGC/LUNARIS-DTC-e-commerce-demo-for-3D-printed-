@@ -1,5 +1,6 @@
 "use client"
 
+
 import { useState } from "react"
 import { useParams, useRouter } from "next/navigation"
 import Link from "next/link"
@@ -11,6 +12,15 @@ import ProductImage from "@/components/ProductImage"
 import products from "../../../data/products.json"
 import reviewsData from "../../../data/reviews.json"
 import { useCart } from "@/context/CartContext"
+import products from '@/data/products.json';
+
+// 导出 generateStaticParams 函数
+export async function generateStaticParams() {
+  // 返回所有产品的 id 列表
+  return products.map((product) => ({
+    id: product.id,
+  }));
+}
 
 interface ProductTheme {
   accent: string
