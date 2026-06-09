@@ -12,7 +12,7 @@ import ProductImage from "@/components/ProductImage"
 import products from "../../../data/products.json"
 import reviewsData from "../../../data/reviews.json"
 import { useCart } from "@/context/CartContext"
-import products from '@/data/products.json';
+
 
 // 导出 generateStaticParams 函数
 export async function generateStaticParams() {
