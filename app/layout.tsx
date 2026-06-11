@@ -6,6 +6,7 @@ import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
 import Toast from "@/components/Toast"
 import ScrollProgress from "@/components/ScrollProgress"
+import Script from "next/script"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -29,6 +30,17 @@ export default function RootLayout({
           <Footer />
           <Toast />
         </CartProvider>
+
+        {/* 追踪脚本 — 所有页面自动加载 */}
+        <Script id="tracker" strategy="afterInteractive">
+          {`
+            (function(){
+              var site = 'lunaris';
+              var img = new Image();
+              img.src = 'https://analytics-tracker.daifayo7.workers.dev/collect?site=' + site + '&p=' + encodeURIComponent(location.pathname);
+            })();
+          `}
+        </Script>
       </body>
     </html>
   )
