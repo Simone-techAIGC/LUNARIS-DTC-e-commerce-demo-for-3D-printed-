@@ -36,6 +36,7 @@ export default function RootLayout({
             gtag('config', 'G-F9YMEZW7V8');
           `}
         </Script>
+        
         <CartProvider>
           <ScrollProgress />
           <Navbar />
